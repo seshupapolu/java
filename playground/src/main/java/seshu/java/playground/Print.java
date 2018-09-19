@@ -1,7 +1,7 @@
 package seshu.java.playground;
 
-public class print {
-    public static void main(String[] args)
+public class Print {
+    public void printMe(String input)
     {
         System.out.println("Hello");
     }
